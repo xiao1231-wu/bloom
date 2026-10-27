@@ -1,0 +1,2174 @@
+{
+  "items": [
+    {
+      "title": "经典白法式",
+      "category": "法式",
+      "tags": [
+        "经典",
+        "优雅",
+        "通勤",
+        "百搭"
+      ],
+      "scene": "通勤",
+      "skin_tones": [
+        "自然肤色",
+        "冷白皮",
+        "暖黄皮"
+      ],
+      "nail_shapes": [
+        "方圆甲",
+        "圆甲",
+        "短甲",
+        "杏仁甲"
+      ],
+      "price": "79-149",
+      "image_url": "assets/styles/classic-white-french.webp",
+      "color_a": "#fff",
+      "color_b": "#fce4ec",
+      "skin_brightness": 4,
+      "hand_shape_fit": 4,
+      "daily_convenience": 5,
+      "maintenance_ease": 5,
+      "style_match": 4,
+      "gender_suitability": "female"
+    },
+    {
+      "title": "彩色法式边",
+      "category": "法式",
+      "tags": [
+        "活泼",
+        "创意",
+        "夏日",
+        "法式"
+      ],
+      "scene": "日常",
+      "skin_tones": [
+        "自然肤色",
+        "冷白皮",
+        "暖黄皮"
+      ],
+      "nail_shapes": [
+        "方圆甲",
+        "圆甲",
+        "短甲"
+      ],
+      "price": "89-169",
+      "image_url": "assets/styles/colorful-french-tip.webp",
+      "color_a": "#ff80ab",
+      "color_b": "#fff",
+      "skin_brightness": 4,
+      "hand_shape_fit": 4,
+      "daily_convenience": 5,
+      "maintenance_ease": 4,
+      "style_match": 4,
+      "gender_suitability": "female"
+    },
+    {
+      "title": "V形法式",
+      "category": "法式",
+      "tags": [
+        "个性",
+        "几何",
+        "法式",
+        "显白"
+      ],
+      "scene": "约会",
+      "skin_tones": [
+        "冷白皮",
+        "自然肤色"
+      ],
+      "nail_shapes": [
+        "杏仁甲",
+        "方圆甲",
+        "长甲"
+      ],
+      "price": "99-189",
+      "image_url": "assets/styles/v-shaped-french.webp",
+      "color_a": "#e91e63",
+      "color_b": "#fce4ec",
+      "skin_brightness": 4,
+      "hand_shape_fit": 5,
+      "daily_convenience": 4,
+      "maintenance_ease": 4,
+      "style_match": 4,
+      "gender_suitability": "female"
+    },
+    {
+      "title": "双色法式",
+      "category": "法式",
+      "tags": [
+        "创意",
+        "法式",
+        "个性",
+        "约会"
+      ],
+      "scene": "约会",
+      "skin_tones": [
+        "自然肤色",
+        "冷白皮"
+      ],
+      "nail_shapes": [
+        "方圆甲",
+        "杏仁甲"
+      ],
+      "price": "109-199",
+      "image_url": "assets/styles/two-tone-french.webp",
+      "color_a": "#333",
+      "color_b": "#f48fb1",
+      "skin_brightness": 3,
+      "hand_shape_fit": 4,
+      "daily_convenience": 4,
+      "maintenance_ease": 4,
+      "style_match": 4,
+      "gender_suitability": "all"
+    },
+    {
+      "title": "金属边法式",
+      "category": "法式",
+      "tags": [
+        "高级感",
+        "法式",
+        "轻奢",
+        "通勤"
+      ],
+      "scene": "通勤",
+      "skin_tones": [
+        "冷白皮",
+        "自然肤色",
+        "暖黄皮"
+      ],
+      "nail_shapes": [
+        "方圆甲",
+        "方甲",
+        "短甲"
+      ],
+      "price": "99-189",
+      "image_url": "assets/community/cn_cream_2.webp",
+      "color_a": "#d4af37",
+      "color_b": "#faf0e6",
+      "skin_brightness": 4,
+      "hand_shape_fit": 5,
+      "daily_convenience": 4,
+      "maintenance_ease": 4,
+      "style_match": 5,
+      "gender_suitability": "all"
+    },
+    {
+      "title": "深红猫眼",
+      "category": "猫眼",
+      "tags": [
+        "猫眼",
+        "显白",
+        "高级感",
+        "约会"
+      ],
+      "scene": "约会",
+      "skin_tones": [
+        "冷白皮",
+        "自然肤色"
+      ],
+      "nail_shapes": [
+        "杏仁甲",
+        "长甲",
+        "方圆甲"
+      ],
+      "price": "139-259",
+      "image_url": "assets/community/cn_cat_eye_1.webp",
+      "color_a": "#8b0000",
+      "color_b": "#ff6b6b",
+      "skin_brightness": 5,
+      "hand_shape_fit": 5,
+      "daily_convenience": 3,
+      "maintenance_ease": 3,
+      "style_match": 5,
+      "gender_suitability": "female"
+    },
+    {
+      "title": "星空蓝猫眼",
+      "category": "猫眼",
+      "tags": [
+        "猫眼",
+        "清冷",
+        "神秘",
+        "派对"
+      ],
+      "scene": "聚会",
+      "skin_tones": [
+        "冷白皮"
+      ],
+      "nail_shapes": [
+        "长甲",
+        "杏仁甲"
+      ],
+      "price": "149-279",
+      "image_url": "assets/community/cn_glass_1.webp",
+      "color_a": "#0d1b2a",
+      "color_b": "#1b3a5c",
+      "skin_brightness": 5,
+      "hand_shape_fit": 5,
+      "daily_convenience": 2,
+      "maintenance_ease": 2,
+      "style_match": 5,
+      "gender_suitability": "all"
+    },
+    {
+      "title": "翡翠绿猫眼",
+      "category": "猫眼",
+      "tags": [
+        "猫眼",
+        "贵气",
+        "高级感",
+        "宴会"
+      ],
+      "scene": "宴会",
+      "skin_tones": [
+        "冷白皮",
+        "自然肤色"
+      ],
+      "nail_shapes": [
+        "杏仁甲",
+        "长甲"
+      ],
+      "price": "159-299",
+      "image_url": "assets/community/cn_cat_eye_2.webp",
+      "color_a": "#004d40",
+      "color_b": "#26a69a",
+      "skin_brightness": 5,
+      "hand_shape_fit": 5,
+      "daily_convenience": 2,
+      "maintenance_ease": 2,
+      "style_match": 5,
+      "gender_suitability": "female"
+    },
+    {
+      "title": "暖棕猫眼",
+      "category": "猫眼",
+      "tags": [
+        "猫眼",
+        "温柔",
+        "日常",
+        "秋日"
+      ],
+      "scene": "日常",
+      "skin_tones": [
+        "暖黄皮",
+        "自然肤色",
+        "小麦色"
+      ],
+      "nail_shapes": [
+        "方圆甲",
+        "杏仁甲"
+      ],
+      "price": "129-239",
+      "image_url": "assets/community/cn_glass_2.webp",
+      "color_a": "#5d4037",
+      "color_b": "#d7ccc8",
+      "skin_brightness": 4,
+      "hand_shape_fit": 4,
+      "daily_convenience": 4,
+      "maintenance_ease": 4,
+      "style_match": 4,
+      "gender_suitability": "all"
+    },
+    {
+      "title": "粉紫渐变",
+      "category": "渐变",
+      "tags": [
+        "渐变",
+        "温柔",
+        "浪漫",
+        "约会"
+      ],
+      "scene": "约会",
+      "skin_tones": [
+        "冷白皮",
+        "自然肤色"
+      ],
+      "nail_shapes": [
+        "杏仁甲",
+        "方圆甲",
+        "长甲"
+      ],
+      "price": "119-219",
+      "image_url": "assets/community/cn_glass_1.webp",
+      "color_a": "#ce93d8",
+      "color_b": "#fce4ec",
+      "skin_brightness": 4,
+      "hand_shape_fit": 5,
+      "daily_convenience": 3,
+      "maintenance_ease": 3,
+      "style_match": 5,
+      "gender_suitability": "female"
+    },
+    {
+      "title": "蓝白渐变",
+      "category": "渐变",
+      "tags": [
+        "渐变",
+        "清冷",
+        "夏日",
+        "文艺"
+      ],
+      "scene": "日常",
+      "skin_tones": [
+        "冷白皮",
+        "自然肤色"
+      ],
+      "nail_shapes": [
+        "方圆甲",
+        "杏仁甲"
+      ],
+      "price": "109-199",
+      "image_url": "assets/community/cn_cat_eye_1.webp",
+      "color_a": "#64b5f6",
+      "color_b": "#e3f2fd",
+      "skin_brightness": 4,
+      "hand_shape_fit": 4,
+      "daily_convenience": 4,
+      "maintenance_ease": 4,
+      "style_match": 4,
+      "gender_suitability": "female"
+    },
+    {
+      "title": "落日橘渐变",
+      "category": "渐变",
+      "tags": [
+        "渐变",
+        "活力",
+        "夏日",
+        "聚会"
+      ],
+      "scene": "聚会",
+      "skin_tones": [
+        "暖黄皮",
+        "自然肤色"
+      ],
+      "nail_shapes": [
+        "杏仁甲",
+        "长甲"
+      ],
+      "price": "119-219",
+      "image_url": "assets/community/cn_dopamine_1.webp",
+      "color_a": "#ff9800",
+      "color_b": "#ffe0b2",
+      "skin_brightness": 4,
+      "hand_shape_fit": 3,
+      "daily_convenience": 3,
+      "maintenance_ease": 3,
+      "style_match": 4,
+      "gender_suitability": "all"
+    },
+    {
+      "title": "彩虹渐变",
+      "category": "渐变",
+      "tags": [
+        "渐变",
+        "彩虹",
+        "欢乐",
+        "节日"
+      ],
+      "scene": "节日",
+      "skin_tones": [
+        "自然肤色",
+        "冷白皮"
+      ],
+      "nail_shapes": [
+        "长甲",
+        "杏仁甲"
+      ],
+      "price": "139-259",
+      "image_url": "assets/community/cn_glass_2.webp",
+      "color_a": "#e91e63",
+      "color_b": "#2196f3",
+      "skin_brightness": 4,
+      "hand_shape_fit": 4,
+      "daily_convenience": 2,
+      "maintenance_ease": 2,
+      "style_match": 5,
+      "gender_suitability": "all"
+    },
+    {
+      "title": "炫彩镜面",
+      "category": "镜面",
+      "tags": [
+        "镜面",
+        "炫彩",
+        "派对",
+        "未来感"
+      ],
+      "scene": "聚会",
+      "skin_tones": [
+        "冷白皮",
+        "自然肤色"
+      ],
+      "nail_shapes": [
+        "长甲",
+        "杏仁甲",
+        "方甲"
+      ],
+      "price": "159-299",
+      "image_url": "assets/community/cn_glass_1.webp",
+      "color_a": "#e0e0e0",
+      "color_b": "#fafafa",
+      "skin_brightness": 5,
+      "hand_shape_fit": 5,
+      "daily_convenience": 2,
+      "maintenance_ease": 2,
+      "style_match": 5,
+      "gender_suitability": "all"
+    },
+    {
+      "title": "玫瑰金镜面",
+      "category": "镜面",
+      "tags": [
+        "镜面",
+        "玫瑰金",
+        "高级感",
+        "约会"
+      ],
+      "scene": "约会",
+      "skin_tones": [
+        "自然肤色",
+        "冷白皮",
+        "暖黄皮"
+      ],
+      "nail_shapes": [
+        "杏仁甲",
+        "长甲"
+      ],
+      "price": "149-279",
+      "image_url": "assets/community/cn_cat_eye_1.webp",
+      "color_a": "#e8a0b4",
+      "color_b": "#fadadd",
+      "skin_brightness": 5,
+      "hand_shape_fit": 5,
+      "daily_convenience": 3,
+      "maintenance_ease": 3,
+      "style_match": 5,
+      "gender_suitability": "female"
+    },
+    {
+      "title": "冰银镜面",
+      "category": "镜面",
+      "tags": [
+        "镜面",
+        "银色",
+        "清冷",
+        "派对"
+      ],
+      "scene": "聚会",
+      "skin_tones": [
+        "冷白皮"
+      ],
+      "nail_shapes": [
+        "长甲",
+        "方甲",
+        "杏仁甲"
+      ],
+      "price": "149-279",
+      "image_url": "assets/community/cn_glass_2.webp",
+      "color_a": "#bdbdbd",
+      "color_b": "#f5f5f5",
+      "skin_brightness": 5,
+      "hand_shape_fit": 4,
+      "daily_convenience": 2,
+      "maintenance_ease": 2,
+      "style_match": 5,
+      "gender_suitability": "all"
+    },
+    {
+      "title": "全息碎钻",
+      "category": "闪钻",
+      "tags": [
+        "闪钻",
+        "全息",
+        "派对",
+        "节日"
+      ],
+      "scene": "节日",
+      "skin_tones": [
+        "冷白皮",
+        "自然肤色"
+      ],
+      "nail_shapes": [
+        "长甲",
+        "杏仁甲"
+      ],
+      "price": "169-319",
+      "image_url": "assets/community/cn_bride_1.webp",
+      "color_a": "#e0e0e0",
+      "color_b": "#fff",
+      "skin_brightness": 5,
+      "hand_shape_fit": 5,
+      "daily_convenience": 1,
+      "maintenance_ease": 1,
+      "style_match": 5,
+      "gender_suitability": "female"
+    },
+    {
+      "title": "银色星河",
+      "category": "闪钻",
+      "tags": [
+        "闪钻",
+        "银色",
+        "星空",
+        "派对"
+      ],
+      "scene": "聚会",
+      "skin_tones": [
+        "冷白皮"
+      ],
+      "nail_shapes": [
+        "长甲",
+        "杏仁甲"
+      ],
+      "price": "179-349",
+      "image_url": "assets/community/cn_cat_eye_1.webp",
+      "color_a": "#9e9e9e",
+      "color_b": "#fafafa",
+      "skin_brightness": 5,
+      "hand_shape_fit": 5,
+      "daily_convenience": 1,
+      "maintenance_ease": 1,
+      "style_match": 5,
+      "gender_suitability": "female"
+    },
+    {
+      "title": "金粉世家",
+      "category": "闪钻",
+      "tags": [
+        "闪钻",
+        "金粉",
+        "贵气",
+        "宴会"
+      ],
+      "scene": "宴会",
+      "skin_tones": [
+        "冷白皮",
+        "自然肤色",
+        "暖黄皮"
+      ],
+      "nail_shapes": [
+        "杏仁甲",
+        "长甲"
+      ],
+      "price": "189-359",
+      "image_url": "assets/community/cn_chinese_1.webp",
+      "color_a": "#ffd54f",
+      "color_b": "#fff8e1",
+      "skin_brightness": 5,
+      "hand_shape_fit": 4,
+      "daily_convenience": 1,
+      "maintenance_ease": 1,
+      "style_match": 5,
+      "gender_suitability": "female"
+    },
+    {
+      "title": "经典白大理石",
+      "category": "大理石",
+      "tags": [
+        "大理石",
+        "高级感",
+        "通勤",
+        "百搭"
+      ],
+      "scene": "通勤",
+      "skin_tones": [
+        "冷白皮",
+        "自然肤色",
+        "暖黄皮"
+      ],
+      "nail_shapes": [
+        "方圆甲",
+        "杏仁甲",
+        "短甲"
+      ],
+      "price": "119-219",
+      "image_url": "assets/community/cn_blue_white_1.webp",
+      "color_a": "#f5f5f5",
+      "color_b": "#e0e0e0",
+      "skin_brightness": 4,
+      "hand_shape_fit": 5,
+      "daily_convenience": 4,
+      "maintenance_ease": 4,
+      "style_match": 5,
+      "gender_suitability": "all"
+    },
+    {
+      "title": "粉红大理石",
+      "category": "大理石",
+      "tags": [
+        "大理石",
+        "粉红",
+        "甜美",
+        "约会"
+      ],
+      "scene": "约会",
+      "skin_tones": [
+        "冷白皮",
+        "自然肤色"
+      ],
+      "nail_shapes": [
+        "杏仁甲",
+        "方圆甲"
+      ],
+      "price": "129-239",
+      "image_url": "assets/community/cn_chinese_1.webp",
+      "color_a": "#f8bbd0",
+      "color_b": "#fce4ec",
+      "skin_brightness": 4,
+      "hand_shape_fit": 5,
+      "daily_convenience": 3,
+      "maintenance_ease": 3,
+      "style_match": 5,
+      "gender_suitability": "female"
+    },
+    {
+      "title": "黑金大理石",
+      "category": "大理石",
+      "tags": [
+        "大理石",
+        "黑金",
+        "轻奢",
+        "宴会"
+      ],
+      "scene": "宴会",
+      "skin_tones": [
+        "冷白皮",
+        "自然肤色"
+      ],
+      "nail_shapes": [
+        "长甲",
+        "方甲"
+      ],
+      "price": "149-279",
+      "image_url": "assets/community/cn_minimal_1.webp",
+      "color_a": "#1a1a1a",
+      "color_b": "#d4af37",
+      "skin_brightness": 5,
+      "hand_shape_fit": 5,
+      "daily_convenience": 2,
+      "maintenance_ease": 2,
+      "style_match": 5,
+      "gender_suitability": "all"
+    },
+    {
+      "title": "水墨大理石",
+      "category": "大理石",
+      "tags": [
+        "大理石",
+        "水墨",
+        "文艺",
+        "高级感"
+      ],
+      "scene": "日常",
+      "skin_tones": [
+        "冷白皮",
+        "自然肤色"
+      ],
+      "nail_shapes": [
+        "方圆甲",
+        "杏仁甲",
+        "长甲"
+      ],
+      "price": "129-249",
+      "image_url": "assets/community/cn_blue_white_2.webp",
+      "color_a": "#546e7a",
+      "color_b": "#cfd8dc",
+      "skin_brightness": 4,
+      "hand_shape_fit": 4,
+      "daily_convenience": 3,
+      "maintenance_ease": 3,
+      "style_match": 5,
+      "gender_suitability": "all"
+    },
+    {
+      "title": "手绘玫瑰",
+      "category": "花卉",
+      "tags": [
+        "花卉",
+        "手绘",
+        "浪漫",
+        "约会"
+      ],
+      "scene": "约会",
+      "skin_tones": [
+        "冷白皮",
+        "自然肤色"
+      ],
+      "nail_shapes": [
+        "杏仁甲",
+        "方圆甲",
+        "长甲"
+      ],
+      "price": "139-259",
+      "image_url": "assets/community/cn_chinese_1.webp",
+      "color_a": "#e91e63",
+      "color_b": "#fce4ec",
+      "skin_brightness": 4,
+      "hand_shape_fit": 5,
+      "daily_convenience": 2,
+      "maintenance_ease": 2,
+      "style_match": 5,
+      "gender_suitability": "female"
+    },
+    {
+      "title": "春日雏菊",
+      "category": "花卉",
+      "tags": [
+        "花卉",
+        "雏菊",
+        "清新",
+        "春日"
+      ],
+      "scene": "日常",
+      "skin_tones": [
+        "自然肤色",
+        "冷白皮",
+        "暖黄皮"
+      ],
+      "nail_shapes": [
+        "方圆甲",
+        "圆甲",
+        "短甲"
+      ],
+      "price": "119-219",
+      "image_url": "assets/community/cn_dopamine_1.webp",
+      "color_a": "#fff176",
+      "color_b": "#e8f5e9",
+      "skin_brightness": 4,
+      "hand_shape_fit": 4,
+      "daily_convenience": 4,
+      "maintenance_ease": 3,
+      "style_match": 5,
+      "gender_suitability": "female"
+    },
+    {
+      "title": "和风樱花",
+      "category": "花卉",
+      "tags": [
+        "花卉",
+        "樱花",
+        "日系",
+        "约会"
+      ],
+      "scene": "约会",
+      "skin_tones": [
+        "冷白皮",
+        "自然肤色"
+      ],
+      "nail_shapes": [
+        "杏仁甲",
+        "圆甲"
+      ],
+      "price": "129-239",
+      "image_url": "assets/community/cn_bride_1.webp",
+      "color_a": "#f8bbd0",
+      "color_b": "#fff",
+      "skin_brightness": 5,
+      "hand_shape_fit": 5,
+      "daily_convenience": 3,
+      "maintenance_ease": 3,
+      "style_match": 5,
+      "gender_suitability": "female"
+    },
+    {
+      "title": "热带花叶",
+      "category": "花卉",
+      "tags": [
+        "花卉",
+        "热带",
+        "活力",
+        "夏日"
+      ],
+      "scene": "聚会",
+      "skin_tones": [
+        "暖黄皮",
+        "自然肤色",
+        "小麦色"
+      ],
+      "nail_shapes": [
+        "杏仁甲",
+        "长甲"
+      ],
+      "price": "139-259",
+      "image_url": "assets/community/cn_chinese_2.webp",
+      "color_a": "#4caf50",
+      "color_b": "#ffeb3b",
+      "skin_brightness": 4,
+      "hand_shape_fit": 4,
+      "daily_convenience": 3,
+      "maintenance_ease": 3,
+      "style_match": 4,
+      "gender_suitability": "all"
+    },
+    {
+      "title": "干花押花",
+      "category": "花卉",
+      "tags": [
+        "花卉",
+        "干花",
+        "文艺",
+        "复古"
+      ],
+      "scene": "日常",
+      "skin_tones": [
+        "自然肤色",
+        "冷白皮"
+      ],
+      "nail_shapes": [
+        "杏仁甲",
+        "方圆甲",
+        "长甲"
+      ],
+      "price": "149-269",
+      "image_url": "assets/community/cn_dopamine_2.webp",
+      "color_a": "#d7ccc8",
+      "color_b": "#faf0e6",
+      "skin_brightness": 4,
+      "hand_shape_fit": 5,
+      "daily_convenience": 3,
+      "maintenance_ease": 3,
+      "style_match": 5,
+      "gender_suitability": "female"
+    },
+    {
+      "title": "爱心法式",
+      "category": "甜美",
+      "tags": [
+        "爱心",
+        "甜美",
+        "约会",
+        "情人节"
+      ],
+      "scene": "约会",
+      "skin_tones": [
+        "冷白皮",
+        "自然肤色"
+      ],
+      "nail_shapes": [
+        "杏仁甲",
+        "圆甲",
+        "方圆甲"
+      ],
+      "price": "109-199",
+      "image_url": "assets/community/cn_blush_french_1.webp",
+      "color_a": "#ff5252",
+      "color_b": "#ffcdd2",
+      "skin_brightness": 5,
+      "hand_shape_fit": 4,
+      "daily_convenience": 3,
+      "maintenance_ease": 3,
+      "style_match": 5,
+      "gender_suitability": "female"
+    },
+    {
+      "title": "波点蝴蝶结",
+      "category": "甜美",
+      "tags": [
+        "波点",
+        "蝴蝶结",
+        "甜美",
+        "少女"
+      ],
+      "scene": "约会",
+      "skin_tones": [
+        "冷白皮",
+        "自然肤色"
+      ],
+      "nail_shapes": [
+        "圆甲",
+        "杏仁甲"
+      ],
+      "price": "119-219",
+      "image_url": "assets/community/cn_dopamine_1.webp",
+      "color_a": "#f48fb1",
+      "color_b": "#fff",
+      "skin_brightness": 5,
+      "hand_shape_fit": 4,
+      "daily_convenience": 3,
+      "maintenance_ease": 3,
+      "style_match": 5,
+      "gender_suitability": "female"
+    },
+    {
+      "title": "糖果色渐变",
+      "category": "甜美",
+      "tags": [
+        "糖果",
+        "渐变",
+        "活力",
+        "夏日"
+      ],
+      "scene": "日常",
+      "skin_tones": [
+        "自然肤色",
+        "冷白皮"
+      ],
+      "nail_shapes": [
+        "方圆甲",
+        "短甲",
+        "圆甲"
+      ],
+      "price": "99-189",
+      "image_url": "assets/community/cn_cream_1.webp",
+      "color_a": "#ff80ab",
+      "color_b": "#ffe0b2",
+      "skin_brightness": 4,
+      "hand_shape_fit": 3,
+      "daily_convenience": 4,
+      "maintenance_ease": 4,
+      "style_match": 4,
+      "gender_suitability": "female"
+    },
+    {
+      "title": "冰淇淋马卡龙",
+      "category": "甜美",
+      "tags": [
+        "马卡龙",
+        "冰淇淋",
+        "夏日",
+        "可爱"
+      ],
+      "scene": "聚会",
+      "skin_tones": [
+        "冷白皮",
+        "自然肤色"
+      ],
+      "nail_shapes": [
+        "圆甲",
+        "短甲",
+        "方圆甲"
+      ],
+      "price": "99-179",
+      "image_url": "assets/community/cn_blush_french_2.webp",
+      "color_a": "#b3e5fc",
+      "color_b": "#f8bbd0",
+      "skin_brightness": 4,
+      "hand_shape_fit": 4,
+      "daily_convenience": 4,
+      "maintenance_ease": 3,
+      "style_match": 5,
+      "gender_suitability": "female"
+    },
+    {
+      "title": "立体花朵",
+      "category": "3D立体",
+      "tags": [
+        "立体",
+        "花卉",
+        "浮雕",
+        "高级感"
+      ],
+      "scene": "宴会",
+      "skin_tones": [
+        "冷白皮",
+        "自然肤色"
+      ],
+      "nail_shapes": [
+        "杏仁甲",
+        "长甲"
+      ],
+      "price": "169-329",
+      "image_url": "assets/community/cn_bride_1.webp",
+      "color_a": "#f8bbd0",
+      "color_b": "#fce4ec",
+      "skin_brightness": 5,
+      "hand_shape_fit": 5,
+      "daily_convenience": 1,
+      "maintenance_ease": 1,
+      "style_match": 5,
+      "gender_suitability": "female"
+    },
+    {
+      "title": "水珠效果",
+      "category": "3D立体",
+      "tags": [
+        "水珠",
+        "立体",
+        "逼真",
+        "创意"
+      ],
+      "scene": "聚会",
+      "skin_tones": [
+        "冷白皮",
+        "自然肤色"
+      ],
+      "nail_shapes": [
+        "杏仁甲",
+        "长甲"
+      ],
+      "price": "159-299",
+      "image_url": "assets/community/cn_chinese_1.webp",
+      "color_a": "#e0f7fa",
+      "color_b": "#fff",
+      "skin_brightness": 5,
+      "hand_shape_fit": 5,
+      "daily_convenience": 2,
+      "maintenance_ease": 2,
+      "style_match": 5,
+      "gender_suitability": "female"
+    },
+    {
+      "title": "编织纹理",
+      "category": "3D立体",
+      "tags": [
+        "编织",
+        "纹理",
+        "立体",
+        "文艺"
+      ],
+      "scene": "日常",
+      "skin_tones": [
+        "自然肤色",
+        "暖黄皮"
+      ],
+      "nail_shapes": [
+        "方圆甲",
+        "短甲"
+      ],
+      "price": "139-259",
+      "image_url": "assets/community/cn_bride_2.webp",
+      "color_a": "#d7ccc8",
+      "color_b": "#bcaaa4",
+      "skin_brightness": 4,
+      "hand_shape_fit": 4,
+      "daily_convenience": 3,
+      "maintenance_ease": 3,
+      "style_match": 4,
+      "gender_suitability": "all"
+    },
+    {
+      "title": "立体蝴蝶",
+      "category": "3D立体",
+      "tags": [
+        "蝴蝶",
+        "立体",
+        "梦幻",
+        "派对"
+      ],
+      "scene": "聚会",
+      "skin_tones": [
+        "冷白皮"
+      ],
+      "nail_shapes": [
+        "长甲",
+        "杏仁甲"
+      ],
+      "price": "179-349",
+      "image_url": "assets/community/cn_chinese_2.webp",
+      "color_a": "#ce93d8",
+      "color_b": "#f3e5f5",
+      "skin_brightness": 5,
+      "hand_shape_fit": 5,
+      "daily_convenience": 1,
+      "maintenance_ease": 1,
+      "style_match": 5,
+      "gender_suitability": "female"
+    },
+    {
+      "title": "极简线条",
+      "category": "几何",
+      "tags": [
+        "线条",
+        "极简",
+        "现代",
+        "通勤"
+      ],
+      "scene": "通勤",
+      "skin_tones": [
+        "冷白皮",
+        "自然肤色",
+        "暖黄皮"
+      ],
+      "nail_shapes": [
+        "方圆甲",
+        "短甲",
+        "方甲"
+      ],
+      "price": "89-169",
+      "image_url": "assets/community/cn_minimal_1.webp",
+      "color_a": "#212121",
+      "color_b": "#fafafa",
+      "skin_brightness": 3,
+      "hand_shape_fit": 4,
+      "daily_convenience": 5,
+      "maintenance_ease": 5,
+      "style_match": 4,
+      "gender_suitability": "all"
+    },
+    {
+      "title": "色块拼接",
+      "category": "几何",
+      "tags": [
+        "色块",
+        "拼接",
+        "现代",
+        "艺术"
+      ],
+      "scene": "聚会",
+      "skin_tones": [
+        "冷白皮",
+        "自然肤色"
+      ],
+      "nail_shapes": [
+        "方甲",
+        "杏仁甲"
+      ],
+      "price": "119-219",
+      "image_url": "assets/community/cn_blue_white_1.webp",
+      "color_a": "#ff5252",
+      "color_b": "#2196f3",
+      "skin_brightness": 4,
+      "hand_shape_fit": 4,
+      "daily_convenience": 3,
+      "maintenance_ease": 3,
+      "style_match": 5,
+      "gender_suitability": "all"
+    },
+    {
+      "title": "三角几何",
+      "category": "几何",
+      "tags": [
+        "三角",
+        "几何",
+        "酷感",
+        "中性"
+      ],
+      "scene": "日常",
+      "skin_tones": [
+        "冷白皮",
+        "暖黄皮",
+        "小麦色"
+      ],
+      "nail_shapes": [
+        "短甲",
+        "方甲",
+        "方圆甲"
+      ],
+      "price": "99-189",
+      "image_url": "assets/community/cn_short_work_1.webp",
+      "color_a": "#37474f",
+      "color_b": "#ff9800",
+      "skin_brightness": 3,
+      "hand_shape_fit": 5,
+      "daily_convenience": 4,
+      "maintenance_ease": 4,
+      "style_match": 4,
+      "gender_suitability": "male"
+    },
+    {
+      "title": "格纹棋盘",
+      "category": "几何",
+      "tags": [
+        "格纹",
+        "棋盘",
+        "复古",
+        "个性"
+      ],
+      "scene": "日常",
+      "skin_tones": [
+        "冷白皮",
+        "自然肤色",
+        "暖黄皮"
+      ],
+      "nail_shapes": [
+        "方圆甲",
+        "方甲",
+        "短甲"
+      ],
+      "price": "109-199",
+      "image_url": "assets/community/cn_minimal_2.webp",
+      "color_a": "#212121",
+      "color_b": "#fff",
+      "skin_brightness": 3,
+      "hand_shape_fit": 4,
+      "daily_convenience": 4,
+      "maintenance_ease": 4,
+      "style_match": 5,
+      "gender_suitability": "all"
+    },
+    {
+      "title": "水彩花卉",
+      "category": "晕染",
+      "tags": [
+        "水彩",
+        "花卉",
+        "文艺",
+        "艺术"
+      ],
+      "scene": "约会",
+      "skin_tones": [
+        "冷白皮",
+        "自然肤色"
+      ],
+      "nail_shapes": [
+        "杏仁甲",
+        "长甲"
+      ],
+      "price": "139-259",
+      "image_url": "assets/community/cn_chinese_1.webp",
+      "color_a": "#ce93d8",
+      "color_b": "#f3e5f5",
+      "skin_brightness": 4,
+      "hand_shape_fit": 5,
+      "daily_convenience": 3,
+      "maintenance_ease": 3,
+      "style_match": 5,
+      "gender_suitability": "female"
+    },
+    {
+      "title": "水彩星空",
+      "category": "晕染",
+      "tags": [
+        "水彩",
+        "星空",
+        "梦幻",
+        "派对"
+      ],
+      "scene": "聚会",
+      "skin_tones": [
+        "冷白皮"
+      ],
+      "nail_shapes": [
+        "杏仁甲",
+        "长甲"
+      ],
+      "price": "149-279",
+      "image_url": "assets/community/cn_glass_1.webp",
+      "color_a": "#1a237e",
+      "color_b": "#7986cb",
+      "skin_brightness": 5,
+      "hand_shape_fit": 5,
+      "daily_convenience": 2,
+      "maintenance_ease": 2,
+      "style_match": 5,
+      "gender_suitability": "all"
+    },
+    {
+      "title": "水墨山水",
+      "category": "晕染",
+      "tags": [
+        "水墨",
+        "山水",
+        "国风",
+        "文艺"
+      ],
+      "scene": "日常",
+      "skin_tones": [
+        "冷白皮",
+        "自然肤色",
+        "暖黄皮"
+      ],
+      "nail_shapes": [
+        "方圆甲",
+        "杏仁甲",
+        "长甲"
+      ],
+      "price": "139-259",
+      "image_url": "assets/community/cn_blue_white_1.webp",
+      "color_a": "#37474f",
+      "color_b": "#eceff1",
+      "skin_brightness": 4,
+      "hand_shape_fit": 4,
+      "daily_convenience": 3,
+      "maintenance_ease": 3,
+      "style_match": 5,
+      "gender_suitability": "all"
+    },
+    {
+      "title": "水彩渐变",
+      "category": "晕染",
+      "tags": [
+        "水彩",
+        "渐变",
+        "温柔",
+        "浪漫"
+      ],
+      "scene": "约会",
+      "skin_tones": [
+        "冷白皮",
+        "自然肤色"
+      ],
+      "nail_shapes": [
+        "杏仁甲",
+        "方圆甲"
+      ],
+      "price": "129-239",
+      "image_url": "assets/community/cn_chinese_2.webp",
+      "color_a": "#f8bbd0",
+      "color_b": "#fff",
+      "skin_brightness": 4,
+      "hand_shape_fit": 5,
+      "daily_convenience": 3,
+      "maintenance_ease": 3,
+      "style_match": 5,
+      "gender_suitability": "female"
+    },
+    {
+      "title": "哑光深红",
+      "category": "磨砂",
+      "tags": [
+        "磨砂",
+        "深红",
+        "高级感",
+        "宴会"
+      ],
+      "scene": "宴会",
+      "skin_tones": [
+        "冷白皮",
+        "自然肤色"
+      ],
+      "nail_shapes": [
+        "方甲",
+        "杏仁甲",
+        "长甲"
+      ],
+      "price": "99-189",
+      "image_url": "assets/community/cn_short_work_1.webp",
+      "color_a": "#8b0000",
+      "color_b": "#b22222",
+      "skin_brightness": 5,
+      "hand_shape_fit": 4,
+      "daily_convenience": 3,
+      "maintenance_ease": 3,
+      "style_match": 4,
+      "gender_suitability": "female"
+    },
+    {
+      "title": "哑光裸灰",
+      "category": "磨砂",
+      "tags": [
+        "磨砂",
+        "裸灰",
+        "高级感",
+        "通勤"
+      ],
+      "scene": "通勤",
+      "skin_tones": [
+        "冷白皮",
+        "自然肤色",
+        "暖黄皮"
+      ],
+      "nail_shapes": [
+        "短甲",
+        "方圆甲"
+      ],
+      "price": "79-149",
+      "image_url": "assets/community/cn_minimal_1.webp",
+      "color_a": "#bdbdbd",
+      "color_b": "#e0e0e0",
+      "skin_brightness": 3,
+      "hand_shape_fit": 4,
+      "daily_convenience": 5,
+      "maintenance_ease": 5,
+      "style_match": 4,
+      "gender_suitability": "all"
+    },
+    {
+      "title": "哑光黑",
+      "category": "磨砂",
+      "tags": [
+        "磨砂",
+        "黑色",
+        "酷感",
+        "中性"
+      ],
+      "scene": "日常",
+      "skin_tones": [
+        "冷白皮",
+        "自然肤色",
+        "暖黄皮",
+        "小麦色"
+      ],
+      "nail_shapes": [
+        "短甲",
+        "方甲",
+        "方圆甲"
+      ],
+      "price": "79-149",
+      "image_url": "assets/community/cn_cream_1.webp",
+      "color_a": "#1a1a1a",
+      "color_b": "#333",
+      "skin_brightness": 3,
+      "hand_shape_fit": 5,
+      "daily_convenience": 5,
+      "maintenance_ease": 5,
+      "style_match": 5,
+      "gender_suitability": "male"
+    },
+    {
+      "title": "哑光军绿",
+      "category": "磨砂",
+      "tags": [
+        "磨砂",
+        "军绿",
+        "个性",
+        "潮流"
+      ],
+      "scene": "日常",
+      "skin_tones": [
+        "暖黄皮",
+        "自然肤色",
+        "小麦色"
+      ],
+      "nail_shapes": [
+        "短甲",
+        "方甲"
+      ],
+      "price": "89-159",
+      "image_url": "assets/community/cn_short_work_2.webp",
+      "color_a": "#4a5d3a",
+      "color_b": "#6b7f55",
+      "skin_brightness": 3,
+      "hand_shape_fit": 4,
+      "daily_convenience": 4,
+      "maintenance_ease": 4,
+      "style_match": 4,
+      "gender_suitability": "male"
+    },
+    {
+      "title": "果冻粉",
+      "category": "果冻",
+      "tags": [
+        "果冻",
+        "透色",
+        "甜美",
+        "夏日"
+      ],
+      "scene": "夏季",
+      "skin_tones": [
+        "冷白皮",
+        "自然肤色"
+      ],
+      "nail_shapes": [
+        "圆甲",
+        "短甲",
+        "方圆甲"
+      ],
+      "price": "79-149",
+      "image_url": "assets/community/cn_glass_1.webp",
+      "color_a": "#ff80ab",
+      "color_b": "#ffcdd2",
+      "skin_brightness": 4,
+      "hand_shape_fit": 4,
+      "daily_convenience": 5,
+      "maintenance_ease": 5,
+      "style_match": 4,
+      "gender_suitability": "female"
+    },
+    {
+      "title": "果冻橘",
+      "category": "果冻",
+      "tags": [
+        "果冻",
+        "透色",
+        "活力",
+        "夏日"
+      ],
+      "scene": "夏季",
+      "skin_tones": [
+        "自然肤色",
+        "暖黄皮"
+      ],
+      "nail_shapes": [
+        "短甲",
+        "圆甲"
+      ],
+      "price": "79-139",
+      "image_url": "assets/community/cn_cat_eye_1.webp",
+      "color_a": "#ff8a65",
+      "color_b": "#ffe0b2",
+      "skin_brightness": 4,
+      "hand_shape_fit": 3,
+      "daily_convenience": 4,
+      "maintenance_ease": 4,
+      "style_match": 4,
+      "gender_suitability": "all"
+    },
+    {
+      "title": "冰透蓝",
+      "category": "果冻",
+      "tags": [
+        "果冻",
+        "透色",
+        "清冷",
+        "夏日"
+      ],
+      "scene": "夏季",
+      "skin_tones": [
+        "冷白皮",
+        "自然肤色"
+      ],
+      "nail_shapes": [
+        "方圆甲",
+        "短甲"
+      ],
+      "price": "89-159",
+      "image_url": "assets/community/cn_blush_french_1.webp",
+      "color_a": "#81d4fa",
+      "color_b": "#e1f5fe",
+      "skin_brightness": 4,
+      "hand_shape_fit": 4,
+      "daily_convenience": 4,
+      "maintenance_ease": 4,
+      "style_match": 4,
+      "gender_suitability": "female"
+    },
+    {
+      "title": "裸感伪素甲",
+      "category": "极简",
+      "tags": [
+        "极简",
+        "裸感",
+        "伪素甲",
+        "通勤"
+      ],
+      "scene": "通勤",
+      "skin_tones": [
+        "冷白皮",
+        "自然肤色",
+        "暖黄皮",
+        "小麦色"
+      ],
+      "nail_shapes": [
+        "短甲",
+        "方圆甲",
+        "圆甲"
+      ],
+      "price": "69-129",
+      "image_url": "assets/community/cn_minimal_1.webp",
+      "color_a": "#f5e1d5",
+      "color_b": "#faf3ec",
+      "skin_brightness": 2,
+      "hand_shape_fit": 3,
+      "daily_convenience": 5,
+      "maintenance_ease": 5,
+      "style_match": 3,
+      "gender_suitability": "all"
+    },
+    {
+      "title": "单线极简",
+      "category": "极简",
+      "tags": [
+        "极简",
+        "线条",
+        "现代",
+        "通勤"
+      ],
+      "scene": "通勤",
+      "skin_tones": [
+        "冷白皮",
+        "自然肤色",
+        "暖黄皮"
+      ],
+      "nail_shapes": [
+        "短甲",
+        "方圆甲"
+      ],
+      "price": "79-139",
+      "image_url": "assets/community/cn_cream_1.webp",
+      "color_a": "#212121",
+      "color_b": "#fafafa",
+      "skin_brightness": 3,
+      "hand_shape_fit": 4,
+      "daily_convenience": 5,
+      "maintenance_ease": 5,
+      "style_match": 4,
+      "gender_suitability": "all"
+    },
+    {
+      "title": "小圆点极简",
+      "category": "极简",
+      "tags": [
+        "极简",
+        "圆点",
+        "可爱",
+        "日常"
+      ],
+      "scene": "日常",
+      "skin_tones": [
+        "自然肤色",
+        "冷白皮"
+      ],
+      "nail_shapes": [
+        "短甲",
+        "方圆甲"
+      ],
+      "price": "79-139",
+      "image_url": "assets/community/cn_short_work_1.webp",
+      "color_a": "#424242",
+      "color_b": "#fce4ec",
+      "skin_brightness": 3,
+      "hand_shape_fit": 3,
+      "daily_convenience": 5,
+      "maintenance_ease": 5,
+      "style_match": 4,
+      "gender_suitability": "all"
+    },
+    {
+      "title": "金属链条",
+      "category": "链条",
+      "tags": [
+        "链条",
+        "金属",
+        "酷感",
+        "派对"
+      ],
+      "scene": "聚会",
+      "skin_tones": [
+        "冷白皮",
+        "自然肤色"
+      ],
+      "nail_shapes": [
+        "方甲",
+        "长甲",
+        "杏仁甲"
+      ],
+      "price": "149-279",
+      "image_url": "assets/community/cn_bride_1.webp",
+      "color_a": "#bdbdbd",
+      "color_b": "#424242",
+      "skin_brightness": 4,
+      "hand_shape_fit": 5,
+      "daily_convenience": 2,
+      "maintenance_ease": 2,
+      "style_match": 5,
+      "gender_suitability": "all"
+    },
+    {
+      "title": "铆钉装饰",
+      "category": "铆钉",
+      "tags": [
+        "铆钉",
+        "酷感",
+        "摇滚",
+        "派对"
+      ],
+      "scene": "聚会",
+      "skin_tones": [
+        "冷白皮",
+        "自然肤色"
+      ],
+      "nail_shapes": [
+        "方甲",
+        "短甲"
+      ],
+      "price": "139-259",
+      "image_url": "assets/community/cn_red_brown_1.webp",
+      "color_a": "#9e9e9e",
+      "color_b": "#212121",
+      "skin_brightness": 4,
+      "hand_shape_fit": 4,
+      "daily_convenience": 3,
+      "maintenance_ease": 3,
+      "style_match": 5,
+      "gender_suitability": "male"
+    },
+    {
+      "title": "银河星空",
+      "category": "星空",
+      "tags": [
+        "星空",
+        "银河",
+        "梦幻",
+        "派对"
+      ],
+      "scene": "聚会",
+      "skin_tones": [
+        "冷白皮"
+      ],
+      "nail_shapes": [
+        "长甲",
+        "杏仁甲"
+      ],
+      "price": "169-319",
+      "image_url": "assets/community/cn_cat_eye_1.webp",
+      "color_a": "#1a237e",
+      "color_b": "#7c4dff",
+      "skin_brightness": 5,
+      "hand_shape_fit": 5,
+      "daily_convenience": 1,
+      "maintenance_ease": 1,
+      "style_match": 5,
+      "gender_suitability": "female"
+    },
+    {
+      "title": "极光夜",
+      "category": "星空",
+      "tags": [
+        "极光",
+        "星空",
+        "梦幻",
+        "炫彩"
+      ],
+      "scene": "节日",
+      "skin_tones": [
+        "冷白皮"
+      ],
+      "nail_shapes": [
+        "长甲",
+        "杏仁甲"
+      ],
+      "price": "179-349",
+      "image_url": "assets/community/cn_blue_white_1.webp",
+      "color_a": "#00695c",
+      "color_b": "#00e5ff",
+      "skin_brightness": 5,
+      "hand_shape_fit": 5,
+      "daily_convenience": 1,
+      "maintenance_ease": 1,
+      "style_match": 5,
+      "gender_suitability": "all"
+    },
+    {
+      "title": "霓虹粉",
+      "category": "霓虹",
+      "tags": [
+        "霓虹",
+        "荧光",
+        "派对",
+        "夜店"
+      ],
+      "scene": "聚会",
+      "skin_tones": [
+        "自然肤色",
+        "冷白皮"
+      ],
+      "nail_shapes": [
+        "长甲",
+        "杏仁甲",
+        "方甲"
+      ],
+      "price": "119-219",
+      "image_url": "assets/community/cn_dopamine_1.webp",
+      "color_a": "#ff1744",
+      "color_b": "#ff80ab",
+      "skin_brightness": 4,
+      "hand_shape_fit": 4,
+      "daily_convenience": 3,
+      "maintenance_ease": 2,
+      "style_match": 5,
+      "gender_suitability": "all"
+    },
+    {
+      "title": "荧光绿",
+      "category": "霓虹",
+      "tags": [
+        "霓虹",
+        "荧光",
+        "潮流",
+        "夏日"
+      ],
+      "scene": "聚会",
+      "skin_tones": [
+        "自然肤色",
+        "小麦色"
+      ],
+      "nail_shapes": [
+        "短甲",
+        "方甲"
+      ],
+      "price": "109-199",
+      "image_url": "assets/community/cn_cat_eye_1.webp",
+      "color_a": "#76ff03",
+      "color_b": "#b2ff59",
+      "skin_brightness": 4,
+      "hand_shape_fit": 3,
+      "daily_convenience": 3,
+      "maintenance_ease": 2,
+      "style_match": 4,
+      "gender_suitability": "male"
+    },
+    {
+      "title": "白色蕾丝",
+      "category": "蕾丝",
+      "tags": [
+        "蕾丝",
+        "白色",
+        "优雅",
+        "婚礼"
+      ],
+      "scene": "婚礼",
+      "skin_tones": [
+        "冷白皮",
+        "自然肤色"
+      ],
+      "nail_shapes": [
+        "杏仁甲",
+        "长甲"
+      ],
+      "price": "149-279",
+      "image_url": "assets/community/cn_bride_1.webp",
+      "color_a": "#fff",
+      "color_b": "#fce4ec",
+      "skin_brightness": 4,
+      "hand_shape_fit": 5,
+      "daily_convenience": 2,
+      "maintenance_ease": 2,
+      "style_match": 5,
+      "gender_suitability": "female"
+    },
+    {
+      "title": "黑色蕾丝",
+      "category": "蕾丝",
+      "tags": [
+        "蕾丝",
+        "黑色",
+        "性感",
+        "约会"
+      ],
+      "scene": "约会",
+      "skin_tones": [
+        "冷白皮",
+        "自然肤色"
+      ],
+      "nail_shapes": [
+        "杏仁甲",
+        "长甲"
+      ],
+      "price": "149-279",
+      "image_url": "assets/community/cn_blush_french_1.webp",
+      "color_a": "#1a1a1a",
+      "color_b": "#fce4ec",
+      "skin_brightness": 5,
+      "hand_shape_fit": 5,
+      "daily_convenience": 2,
+      "maintenance_ease": 2,
+      "style_match": 5,
+      "gender_suitability": "female"
+    },
+    {
+      "title": "复古酒红",
+      "category": "复古",
+      "tags": [
+        "复古",
+        "酒红",
+        "港风",
+        "高级感"
+      ],
+      "scene": "宴会",
+      "skin_tones": [
+        "冷白皮",
+        "自然肤色",
+        "暖黄皮"
+      ],
+      "nail_shapes": [
+        "方甲",
+        "杏仁甲",
+        "长甲"
+      ],
+      "price": "109-199",
+      "image_url": "assets/community/cn_red_brown_1.webp",
+      "color_a": "#722f37",
+      "color_b": "#b22222",
+      "skin_brightness": 5,
+      "hand_shape_fit": 4,
+      "daily_convenience": 3,
+      "maintenance_ease": 3,
+      "style_match": 4,
+      "gender_suitability": "female"
+    },
+    {
+      "title": "复古波点",
+      "category": "复古",
+      "tags": [
+        "复古",
+        "波点",
+        "港风",
+        "约会"
+      ],
+      "scene": "约会",
+      "skin_tones": [
+        "冷白皮",
+        "自然肤色"
+      ],
+      "nail_shapes": [
+        "圆甲",
+        "短甲",
+        "方圆甲"
+      ],
+      "price": "99-179",
+      "image_url": "assets/community/cn_chinese_1.webp",
+      "color_a": "#c62828",
+      "color_b": "#fff",
+      "skin_brightness": 4,
+      "hand_shape_fit": 4,
+      "daily_convenience": 3,
+      "maintenance_ease": 3,
+      "style_match": 4,
+      "gender_suitability": "female"
+    },
+    {
+      "title": "复古绿",
+      "category": "复古",
+      "tags": [
+        "复古",
+        "墨绿",
+        "文艺",
+        "高级感"
+      ],
+      "scene": "日常",
+      "skin_tones": [
+        "冷白皮",
+        "自然肤色",
+        "暖黄皮"
+      ],
+      "nail_shapes": [
+        "方圆甲",
+        "杏仁甲"
+      ],
+      "price": "109-199",
+      "image_url": "assets/community/cn_bride_1.webp",
+      "color_a": "#1b5e20",
+      "color_b": "#4caf50",
+      "skin_brightness": 4,
+      "hand_shape_fit": 4,
+      "daily_convenience": 3,
+      "maintenance_ease": 3,
+      "style_match": 4,
+      "gender_suitability": "all"
+    },
+    {
+      "title": "扎染蓝",
+      "category": "扎染",
+      "tags": [
+        "扎染",
+        "蓝色",
+        "个性",
+        "艺术"
+      ],
+      "scene": "聚会",
+      "skin_tones": [
+        "冷白皮",
+        "自然肤色"
+      ],
+      "nail_shapes": [
+        "杏仁甲",
+        "长甲"
+      ],
+      "price": "139-259",
+      "image_url": "assets/community/cn_blue_white_1.webp",
+      "color_a": "#1565c0",
+      "color_b": "#64b5f6",
+      "skin_brightness": 4,
+      "hand_shape_fit": 4,
+      "daily_convenience": 2,
+      "maintenance_ease": 2,
+      "style_match": 5,
+      "gender_suitability": "all"
+    },
+    {
+      "title": "琥珀棕",
+      "category": "琥珀",
+      "tags": [
+        "琥珀",
+        "棕色",
+        "贵气",
+        "秋日"
+      ],
+      "scene": "日常",
+      "skin_tones": [
+        "暖黄皮",
+        "自然肤色"
+      ],
+      "nail_shapes": [
+        "杏仁甲",
+        "方圆甲",
+        "短甲"
+      ],
+      "price": "119-219",
+      "image_url": "assets/community/cn_red_brown_1.webp",
+      "color_a": "#bf8040",
+      "color_b": "#ffcc80",
+      "skin_brightness": 4,
+      "hand_shape_fit": 4,
+      "daily_convenience": 4,
+      "maintenance_ease": 3,
+      "style_match": 4,
+      "gender_suitability": "all"
+    },
+    {
+      "title": "扎染粉",
+      "category": "扎染",
+      "tags": [
+        "扎染",
+        "粉色",
+        "艺术",
+        "约会"
+      ],
+      "scene": "约会",
+      "skin_tones": [
+        "冷白皮",
+        "自然肤色"
+      ],
+      "nail_shapes": [
+        "杏仁甲",
+        "长甲"
+      ],
+      "price": "139-259",
+      "image_url": "assets/community/cn_dopamine_1.webp",
+      "color_a": "#f06292",
+      "color_b": "#fce4ec",
+      "skin_brightness": 4,
+      "hand_shape_fit": 4,
+      "daily_convenience": 2,
+      "maintenance_ease": 2,
+      "style_match": 5,
+      "gender_suitability": "female"
+    },
+    {
+      "title": "哑光深灰",
+      "category": "磨砂",
+      "tags": [
+        "男士",
+        "哑光",
+        "深灰",
+        "低调"
+      ],
+      "scene": "通勤",
+      "skin_tones": [
+        "冷白皮",
+        "自然肤色",
+        "暖黄皮",
+        "小麦色"
+      ],
+      "nail_shapes": [
+        "短甲",
+        "方甲",
+        "方圆甲"
+      ],
+      "price": "89-159",
+      "image_url": "assets/community/cn_minimal_2.webp",
+      "color_a": "#424242",
+      "color_b": "#757575",
+      "skin_brightness": 2,
+      "hand_shape_fit": 5,
+      "daily_convenience": 5,
+      "maintenance_ease": 5,
+      "style_match": 5,
+      "gender_suitability": "male"
+    },
+    {
+      "title": "混凝土灰",
+      "category": "极简",
+      "tags": [
+        "男士",
+        "灰色",
+        "极简",
+        "潮流"
+      ],
+      "scene": "日常",
+      "skin_tones": [
+        "冷白皮",
+        "自然肤色",
+        "暖黄皮",
+        "小麦色"
+      ],
+      "nail_shapes": [
+        "短甲",
+        "方甲"
+      ],
+      "price": "79-139",
+      "image_url": "assets/community/cn_minimal_2.webp",
+      "color_a": "#9e9e9e",
+      "color_b": "#bdbdbd",
+      "skin_brightness": 2,
+      "hand_shape_fit": 5,
+      "daily_convenience": 5,
+      "maintenance_ease": 5,
+      "style_match": 4,
+      "gender_suitability": "male"
+    },
+    {
+      "title": "军旅迷彩",
+      "category": "几何",
+      "tags": [
+        "男士",
+        "迷彩",
+        "军旅",
+        "酷感"
+      ],
+      "scene": "日常",
+      "skin_tones": [
+        "暖黄皮",
+        "小麦色"
+      ],
+      "nail_shapes": [
+        "短甲",
+        "方甲"
+      ],
+      "price": "109-199",
+      "image_url": "assets/community/cn_blue_white_2.webp",
+      "color_a": "#4a5d3a",
+      "color_b": "#6b7f55",
+      "skin_brightness": 3,
+      "hand_shape_fit": 5,
+      "daily_convenience": 4,
+      "maintenance_ease": 4,
+      "style_match": 4,
+      "gender_suitability": "male"
+    },
+    {
+      "title": "工业金属",
+      "category": "镜面",
+      "tags": [
+        "男士",
+        "金属",
+        "工业",
+        "前卫"
+      ],
+      "scene": "聚会",
+      "skin_tones": [
+        "冷白皮",
+        "自然肤色"
+      ],
+      "nail_shapes": [
+        "短甲",
+        "方甲"
+      ],
+      "price": "139-259",
+      "image_url": "assets/community/cn_cat_eye_2.webp",
+      "color_a": "#9e9e9e",
+      "color_b": "#e0e0e0",
+      "skin_brightness": 4,
+      "hand_shape_fit": 5,
+      "daily_convenience": 3,
+      "maintenance_ease": 2,
+      "style_match": 5,
+      "gender_suitability": "male"
+    },
+    {
+      "title": "极暗黑",
+      "category": "磨砂",
+      "tags": [
+        "男士",
+        "全黑",
+        "哑光",
+        "极简"
+      ],
+      "scene": "日常",
+      "skin_tones": [
+        "冷白皮",
+        "自然肤色",
+        "暖黄皮",
+        "小麦色"
+      ],
+      "nail_shapes": [
+        "短甲",
+        "方甲",
+        "方圆甲"
+      ],
+      "price": "79-139",
+      "image_url": "assets/community/cn_cream_2.webp",
+      "color_a": "#0d0d0d",
+      "color_b": "#1a1a1a",
+      "skin_brightness": 2,
+      "hand_shape_fit": 5,
+      "daily_convenience": 5,
+      "maintenance_ease": 5,
+      "style_match": 5,
+      "gender_suitability": "male"
+    }
+  ]
+}

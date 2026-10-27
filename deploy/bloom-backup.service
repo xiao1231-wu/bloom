@@ -1,0 +1,18 @@
+[Unit]
+Description=Back up Bloom SQLite data and uploads
+After=bloom.service
+
+[Service]
+Type=oneshot
+User=ubuntu
+Group=www-data
+WorkingDirectory=/opt/bloom/current
+EnvironmentFile=/etc/bloom.env
+Environment=PYTHONDONTWRITEBYTECODE=1
+ExecStart=/opt/bloom/venv/bin/python deploy/backup.py
+UMask=0027
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectHome=true
+ProtectSystem=strict
+ReadWritePaths=/var/lib/bloom /var/backups/bloom

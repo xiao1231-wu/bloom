@@ -1,0 +1,24 @@
+[Unit]
+Description=Bloom nail styling service
+After=network.target
+
+[Service]
+Type=simple
+User=ubuntu
+Group=www-data
+WorkingDirectory=/opt/bloom/current
+EnvironmentFile=/etc/bloom.env
+Environment=PYTHONDONTWRITEBYTECODE=1
+ExecStart=/opt/bloom/venv/bin/python backend/app.py
+Restart=always
+RestartSec=3
+TimeoutStopSec=15
+UMask=0027
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectHome=true
+ProtectSystem=strict
+ReadWritePaths=/var/lib/bloom
+
+[Install]
+WantedBy=multi-user.target

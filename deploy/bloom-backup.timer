@@ -1,0 +1,11 @@
+[Unit]
+Description=Run the Bloom backup every day
+
+[Timer]
+OnCalendar=*-*-* 03:30:00 Asia/Shanghai
+Persistent=true
+RandomizedDelaySec=10m
+Unit=bloom-backup.service
+
+[Install]
+WantedBy=timers.target
