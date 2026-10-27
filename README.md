@@ -1,4 +1,4 @@
-# bioom · 美甲搭配师
+# bloom · 美甲搭配师
 
 一个围绕“手部档案 → 智能适配 → 虚拟试戴 → 收藏/分享 → 线下预约”的美甲社区演示项目。
 
@@ -7,8 +7,8 @@
 需要 Python 3.10 或更新版本。首次使用：
 
 ```powershell
-git clone https://github.com/xiao1231-wu/bioom.git
-cd bioom
+git clone https://github.com/xiao1231-wu/bloom.git
+cd bloom
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 python -m pip install -r requirements.txt
